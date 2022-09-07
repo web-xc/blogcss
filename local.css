@@ -1,0 +1,10 @@
+#local-search .search-dialog .local-search-box input {
+    padding: 5px 14px;
+    width: 100%;
+    outline: 0;
+    border: 2px solid #49b1f5;
+    border-radius: 40px;
+    background: var(--search-bg);
+    color: var(--search-input-color);
+    -webkit-appearance: none;
+}
